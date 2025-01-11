@@ -27,4 +27,4 @@ jobs:
         pip install -r requirements.txt
 
     - name: Run basic tests
-      run: echo "Test" # Zastąp to prawdziwymi testami w przyszłości
+      run: echo "Test" 
